@@ -1,0 +1,7 @@
+# ru-ru.zip специально хранится в git (нужен для установки через Publii)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp unpack dir
+_unpacked/
